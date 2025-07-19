@@ -1,1 +1,1 @@
-# CBAM-HRNet
+README_CN.md
